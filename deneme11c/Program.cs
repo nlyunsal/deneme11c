@@ -12,6 +12,8 @@ namespace deneme11c
         {
 
             //çeşitli kodlar
+
+            // geliştirme devam
         }
     }
 }
